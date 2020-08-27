@@ -21,6 +21,10 @@ import javax.xml.parsers.ParserConfigurationException
 import java.lang.Thread.UncaughtExceptionHandler
 import java.text.SimpleDateFormat
 
+/**
+ * Nifty JavaFX tool to allow programmatic checking of large
+ * amounts of XML data.
+ */
 class XMLValidator extends Application {
 
     @Override
