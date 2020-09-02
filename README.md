@@ -1,2 +1,2 @@
 # GroovyProjects
-Small projects using Apache Groovy that don't seem to merit a repo of their own
+Small Apache Groovy code examples that don't seem to merit a repo of their own
